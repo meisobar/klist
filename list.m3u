@@ -49,6 +49,44 @@ http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="http://i.imgur.com/B6vXfKu.png" tvg-country="KR" tvg-url="" group-title="",ETN  SD
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:-1,라이프타임
+http://211.178.121.60:9981/stream/channelid/1477100778
+#EXTINF:-1,채널 뷰
+http://211.178.121.60:9981/stream/channelid/573181092
+#EXTINF:-1,MBC Every1
+http://211.178.121.60:9981/stream/channelid/395794968
+#EXTINF:-1,GS MY SHOP
+http://211.178.121.60:9981/stream/channelid/1964988747
+#EXTINF:-1,KBS DRAMA
+http://211.178.121.60:9981/stream/channelid/1412731907
+#EXTINF:-1,쇼핑엔T
+http://211.178.121.60:9981/stream/channelid/1085060811
+#EXTINF:-1,MBC Dramanet
+http://211.178.121.60:9981/stream/channelid/1217226299
+#EXTINF:-1,CJ오쇼핑 플러스
+http://211.178.121.60:9981/stream/channelid/946375200
+#EXTINF:-1,O tvN
+http://211.178.121.60:9981/stream/channelid/1659439517
+#EXTINF:-1,롯데원티비
+http://211.178.121.60:9981/stream/channelid/6536996
+#EXTINF:-1,W 쇼핑
+http://211.178.121.60:9981/stream/channelid/1206535310
+#EXTINF:-1,드라맥스
+http://211.178.121.60:9981/stream/channelid/819027232
+#EXTINF:-1,현대홈쇼핑 샵
+http://211.178.121.60:9981/stream/channelid/26783826
+#EXTINF:-1,NS Shop
+http://211.178.121.60:9981/stream/channelid/1311637191
+#EXTINF:-1,Highlight TV
+http://211.178.121.60:9981/stream/channelid/929919961
+#EXTINF:-1,B tv
+http://211.178.121.60:9981/stream/channelid/1799187918
+#EXTINF:-1,아임쇼핑
+http://211.178.121.60:9981/stream/channelid/67014289
+#EXTINF:-1,SBS Plus
+http://211.178.121.60:9981/stream/channelid/2122573302
+#EXTINF:-1,KBS N Sports
+http://211.178.121.60:9981/stream/channelid/1206446954
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/WRzx3F9.png" tvg-country="KR" tvg-url="" group-title="",Fox Life
 http://211.49.191.148:9981/stream/channelid/1960414728
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/JmjsOQs.jpg" tvg-country="KR" tvg-url="" group-title="",G1
